@@ -22,7 +22,7 @@ Frontend tarafında Next.js kullanılmıştır. Uygulama üzerinden görev liste
 
 ## Kurulum
 
-Projeyi bilgisayarınıza indirmek için:
+Projeyi bilgisayarınıza klonlamak için:
 
 ```bash
 git clone https://github.com/safakelitas/gorev-yonetim-paneli.git
